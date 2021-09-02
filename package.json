@@ -1,0 +1,32 @@
+{
+  "name": "sunnyside-agency-landing-page",
+  "version": "1.0.0",
+  "description": "Frontend Mentor challenge with SASS",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "dart-sass": "^1.25.0",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.0.0",
+    "gulp-webp": "^4.0.1",
+    "node-sass": "^6.0.1",
+    "sass": "^1.35.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leoguido/sunnyside-agency-landing-page.git"
+  },
+  "keywords": [
+    "SASS",
+    "Gulp"
+  ],
+  "author": "Leo Guido",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leoguido/sunnyside-agency-landing-page/issues"
+  },
+  "homepage": "https://github.com/leoguido/sunnyside-agency-landing-page#readme"
+}
